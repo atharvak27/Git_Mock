@@ -1,4 +1,4 @@
-# HTML-and-CSS-for-beginners
+# HTML-and-CSS code
 
 ## Introduction
 
